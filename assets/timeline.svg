@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">NDA-safe backend career progression</title>
+  <desc id="desc">A timeline from 2021 to the present showing progression from Python developer to backend lead, backend developer, and senior backend developer and technical lead.</desc>
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#818cf8"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#020617" flood-opacity="0.22"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="360" rx="28" fill="#f8fafc"/>
+  <text x="56" y="62" fill="#0f172a" font-family="Inter,Arial,sans-serif" font-size="28" font-weight="800">Career progression</text>
+  <text x="56" y="91" fill="#475569" font-family="Inter,Arial,sans-serif" font-size="15">NDA-safe view — roles and scope, without company names</text>
+  <path d="M116 184H1084" stroke="#cbd5e1" stroke-width="8" stroke-linecap="round"/>
+  <path d="M116 184H1084" stroke="url(#line)" stroke-width="5" stroke-linecap="round"/>
+  <g filter="url(#shadow)" font-family="Inter,Arial,sans-serif">
+    <circle cx="140" cy="184" r="19" fill="#0ea5e9" stroke="#e0f2fe" stroke-width="7"/>
+    <circle cx="430" cy="184" r="19" fill="#0284c7" stroke="#e0f2fe" stroke-width="7"/>
+    <circle cx="720" cy="184" r="19" fill="#4f46e5" stroke="#e0e7ff" stroke-width="7"/>
+    <circle cx="1040" cy="184" r="19" fill="#7c3aed" stroke="#ede9fe" stroke-width="7"/>
+  </g>
+  <g font-family="Inter,Arial,sans-serif">
+    <text x="116" y="142" fill="#0369a1" font-size="14" font-weight="800">2021–2022</text>
+    <text x="116" y="224" fill="#0f172a" font-size="17" font-weight="800">Python Developer</text>
+    <text x="116" y="250" fill="#475569" font-size="13">Django · REST · Celery · PostgreSQL</text>
+    <text x="406" y="142" fill="#0369a1" font-size="14" font-weight="800">2022–2024</text>
+    <text x="406" y="224" fill="#0f172a" font-size="17" font-weight="800">Backend Lead</text>
+    <text x="406" y="250" fill="#475569" font-size="13">architecture · delivery · team leadership</text>
+    <text x="696" y="142" fill="#4338ca" font-size="14" font-weight="800">2024–2025</text>
+    <text x="696" y="224" fill="#0f172a" font-size="17" font-weight="800">Backend Developer</text>
+    <text x="696" y="250" fill="#475569" font-size="13">Go · Kafka · gRPC · Prometheus</text>
+    <text x="1016" y="142" fill="#6d28d9" font-size="14" font-weight="800">2025–present</text>
+    <text x="1016" y="224" fill="#0f172a" font-size="17" font-weight="800">Senior / Tech Lead</text>
+    <text x="1016" y="250" fill="#475569" font-size="13">15 specialists · 12+ services · ML platforms</text>
+  </g>
+  <rect x="56" y="294" width="1088" height="1" fill="#e2e8f0"/>
+  <text x="56" y="325" fill="#64748b" font-family="Inter,Arial,sans-serif" font-size="13">Growth pattern: implementation → ownership → architecture → technical leadership</text>
+</svg>
