@@ -27,7 +27,7 @@
   <g font-family="Inter,Arial,sans-serif">
     <circle cx="84" cy="174" r="12" fill="#60a5fa"/>
     <text x="106" y="181" fill="#eff6ff" font-size="18" font-weight="800">APIs &amp; services</text>
-    <text x="80" y="222" fill="#bfdbfe" font-size="14">Python · Go · FastAPI</text>
+    <text x="80" y="222" fill="#bfdbfe" font-size="14">Python · FastAPI</text>
     <text x="80" y="247" fill="#bfdbfe" font-size="14">Django/DRF · REST · gRPC</text>
     <text x="80" y="272" fill="#bfdbfe" font-size="14">asyncio · aiohttp · Pydantic</text>
 
