@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Grisha Lavrov — senior backend developer and technical lead</title>
+  <desc id="desc">A visual summary of experience: five plus years, fifteen specialists led, thirty times faster data operations, and eighty-five percent plus critical test coverage.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="0.55" stop-color="#111c36"/>
+      <stop offset="1" stop-color="#18345b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#67e8f9"/>
+      <stop offset="1" stop-color="#60a5fa"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#020617" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="420" rx="28" fill="url(#bg)"/>
+  <circle cx="1100" cy="-10" r="210" fill="#2563eb" opacity="0.12"/>
+  <circle cx="45" cy="410" r="180" fill="#06b6d4" opacity="0.08"/>
+  <path d="M58 60H390" stroke="url(#accent)" stroke-width="5" stroke-linecap="round"/>
+  <text x="58" y="110" fill="#f8fafc" font-family="Inter,Arial,sans-serif" font-size="38" font-weight="750">Grisha Lavrov</text>
+  <text x="58" y="150" fill="#bae6fd" font-family="Inter,Arial,sans-serif" font-size="21" font-weight="650">Senior Backend Developer · Technical Lead</text>
+  <text x="58" y="183" fill="#cbd5e1" font-family="Inter,Arial,sans-serif" font-size="16">NDA-safe experience snapshot · Python · Go · distributed systems</text>
+
+  <g filter="url(#shadow)">
+    <rect x="58" y="220" width="255" height="116" rx="18" fill="#172554" stroke="#334c7b"/>
+    <rect x="329" y="220" width="255" height="116" rx="18" fill="#172554" stroke="#334c7b"/>
+    <rect x="600" y="220" width="255" height="116" rx="18" fill="#172554" stroke="#334c7b"/>
+    <rect x="871" y="220" width="271" height="116" rx="18" fill="#172554" stroke="#334c7b"/>
+  </g>
+  <g font-family="Inter,Arial,sans-serif">
+    <text x="82" y="267" fill="#67e8f9" font-size="36" font-weight="800">5+</text>
+    <text x="82" y="299" fill="#f8fafc" font-size="16" font-weight="650">years in backend</text>
+    <text x="82" y="322" fill="#94a3b8" font-size="13">Python · Go · APIs</text>
+
+    <text x="353" y="267" fill="#67e8f9" font-size="36" font-weight="800">15</text>
+    <text x="353" y="299" fill="#f8fafc" font-size="16" font-weight="650">specialists led</text>
+    <text x="353" y="322" fill="#94a3b8" font-size="13">delivery · reviews · releases</text>
+
+    <text x="624" y="267" fill="#67e8f9" font-size="36" font-weight="800">30×</text>
+    <text x="624" y="299" fill="#f8fafc" font-size="16" font-weight="650">faster data operations</text>
+    <text x="624" y="322" fill="#94a3b8" font-size="13">measured optimization impact</text>
+
+    <text x="895" y="267" fill="#67e8f9" font-size="36" font-weight="800">85%+</text>
+    <text x="895" y="299" fill="#f8fafc" font-size="16" font-weight="650">critical test coverage</text>
+    <text x="895" y="322" fill="#94a3b8" font-size="13">quality · reliability · observability</text>
+  </g>
+  <text x="58" y="382" fill="#94a3b8" font-family="Inter,Arial,sans-serif" font-size="14">12+ backend services  ·  500+ ML models in platform scope  ·  −40% production defects  ·  −15% service response time</text>
+</svg>
