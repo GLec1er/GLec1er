@@ -10,7 +10,7 @@ I design and build backend systems for data-intensive products, internal platfor
 
 ## ⚡ At a glance
 
-<table>
+<table width="100%">
   <tr>
     <td align="center" width="25%"><h3>5+</h3><sub>years in backend</sub></td>
     <td align="center" width="25%"><h3>15</h3><sub>specialists led</sub></td>
