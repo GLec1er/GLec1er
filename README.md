@@ -8,13 +8,29 @@ I design and build backend systems for data-intensive products, internal platfor
   <img src="./assets/impact.svg" alt="NDA-safe experience impact snapshot" width="100%">
 </p>
 
-## At a glance
+## ⚡ At a glance
 
-- **5+ years** building and operating backend systems
-- Led delivery for **up to 15 specialists** and owned the technical direction of **12+ backend services**
-- Worked with platforms covering **500+ ML models** and **50+ test types**
-- Improved data-heavy operations by up to **30×** and reduced one database workflow from **5 minutes to 10 seconds**
-- Increased critical-scenario test coverage to **85%+**, reduced production defects by approximately **40%**, and improved service response time by **15%**
+<table>
+  <tr>
+    <td align="center" width="25%"><h3>5+</h3><sub>years in backend</sub></td>
+    <td align="center" width="25%"><h3>15</h3><sub>specialists led</sub></td>
+    <td align="center" width="25%"><h3>12+</h3><sub>backend services</sub></td>
+    <td align="center" width="25%"><h3>500+</h3><sub>ML models in scope</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><h3>30×</h3><sub>faster data operations</sub></td>
+    <td align="center"><h3>85%+</h3><sub>critical test coverage</sub></td>
+    <td align="center"><h3>−40%</h3><sub>production defects</sub></td>
+    <td align="center"><h3>−15%</h3><sub>service response time</sub></td>
+  </tr>
+</table>
+
+### Measured impact
+
+- Led delivery for **up to 15 specialists** and owned the technical direction of **12+ backend services**.
+- Worked with platforms covering **500+ ML models** and **50+ test types**.
+- Improved data-heavy operations by up to **30×** and reduced one database workflow from **5 minutes to 10 seconds**.
+- Increased critical-scenario test coverage to **85%+**, reduced production defects by approximately **40%**, and improved service response time by **15%**.
 
 <p align="center">
   <img src="./assets/timeline.svg" alt="NDA-safe career progression timeline" width="100%">
