@@ -21,7 +21,7 @@
   <path d="M58 60H390" stroke="url(#accent)" stroke-width="5" stroke-linecap="round"/>
   <text x="58" y="110" fill="#f8fafc" font-family="Inter,Arial,sans-serif" font-size="38" font-weight="750">Grisha Lavrov</text>
   <text x="58" y="150" fill="#bae6fd" font-family="Inter,Arial,sans-serif" font-size="21" font-weight="650">Senior Backend Developer · Technical Lead</text>
-  <text x="58" y="183" fill="#cbd5e1" font-family="Inter,Arial,sans-serif" font-size="16">NDA-safe experience snapshot · Python · Go · distributed systems</text>
+  <text x="58" y="183" fill="#cbd5e1" font-family="Inter,Arial,sans-serif" font-size="16">NDA-safe experience snapshot · Python · distributed systems</text>
 
   <g filter="url(#shadow)">
     <rect x="58" y="220" width="255" height="116" rx="18" fill="#172554" stroke="#334c7b"/>
@@ -32,7 +32,7 @@
   <g font-family="Inter,Arial,sans-serif">
     <text x="82" y="267" fill="#67e8f9" font-size="36" font-weight="800">5+</text>
     <text x="82" y="299" fill="#f8fafc" font-size="16" font-weight="650">years in backend</text>
-    <text x="82" y="322" fill="#94a3b8" font-size="13">Python · Go · APIs</text>
+    <text x="82" y="322" fill="#94a3b8" font-size="13">Python · APIs</text>
 
     <text x="353" y="267" fill="#67e8f9" font-size="36" font-weight="800">15</text>
     <text x="353" y="299" fill="#f8fafc" font-size="16" font-weight="650">specialists led</text>
