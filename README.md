@@ -1,4 +1,4 @@
-# Hi, I'm Grisha Lavrov 👋
+# Hi, I'm Grigorii Lavrov 👋
 
 ### Senior Backend Developer · Technical Lead
 
