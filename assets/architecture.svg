@@ -26,13 +26,13 @@
   </g>
   <g font-family="Inter,Arial,sans-serif">
     <circle cx="84" cy="174" r="12" fill="#60a5fa"/>
-    <text x="106" y="181" fill="#eff6ff" font-size="18" font-weight="800">APIs & services</text>
+    <text x="106" y="181" fill="#eff6ff" font-size="18" font-weight="800">APIs &amp; services</text>
     <text x="80" y="222" fill="#bfdbfe" font-size="14">Python · Go · FastAPI</text>
     <text x="80" y="247" fill="#bfdbfe" font-size="14">Django/DRF · REST · gRPC</text>
     <text x="80" y="272" fill="#bfdbfe" font-size="14">asyncio · aiohttp · Pydantic</text>
 
     <circle cx="350" cy="174" r="12" fill="#4ade80"/>
-    <text x="372" y="181" fill="#ecfdf5" font-size="18" font-weight="800">Data & messaging</text>
+    <text x="372" y="181" fill="#ecfdf5" font-size="18" font-weight="800">Data &amp; messaging</text>
     <text x="346" y="222" fill="#bbf7d0" font-size="14">PostgreSQL · Redis</text>
     <text x="346" y="247" fill="#bbf7d0" font-size="14">Kafka · RabbitMQ</text>
     <text x="346" y="272" fill="#bbf7d0" font-size="14">SQL · ORM optimization</text>
@@ -44,7 +44,7 @@
     <text x="614" y="272" fill="#e9d5ff" font-size="14">event-driven workflows</text>
 
     <circle cx="882" cy="174" r="12" fill="#fbbf24"/>
-    <text x="904" y="181" fill="#fffbeb" font-size="18" font-weight="800">Platform & quality</text>
+    <text x="904" y="181" fill="#fffbeb" font-size="18" font-weight="800">Platform &amp; quality</text>
     <text x="880" y="222" fill="#fde68a" font-size="14">Docker · Kubernetes</text>
     <text x="880" y="247" fill="#fde68a" font-size="14">GitLab CI/CD · Jenkins</text>
     <text x="880" y="272" fill="#fde68a" font-size="14">Prometheus · testing</text>
