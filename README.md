@@ -10,20 +10,9 @@ I design and build backend systems for data-intensive products, internal platfor
 
 ## ⚡ At a glance
 
-<table width="100%">
-  <tr>
-    <td align="center" width="25%"><h3>5+</h3><sub>years in backend</sub></td>
-    <td align="center" width="25%"><h3>15</h3><sub>specialists led</sub></td>
-    <td align="center" width="25%"><h3>12+</h3><sub>backend services</sub></td>
-    <td align="center" width="25%"><h3>500+</h3><sub>ML models in scope</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><h3>30×</h3><sub>faster data operations</sub></td>
-    <td align="center"><h3>85%+</h3><sub>critical test coverage</sub></td>
-    <td align="center"><h3>−40%</h3><sub>production defects</sub></td>
-    <td align="center"><h3>−15%</h3><sub>service response time</sub></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/at-a-glance.svg" alt="IT dashboard with backend experience, leadership, scope, quality, and performance metrics" width="100%">
+</p>
 
 ### Measured impact
 
