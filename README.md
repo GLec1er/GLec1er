@@ -1,8 +1,8 @@
-# Hi, I'm Grigorii Lavrov 👋
+# Hi, I'm Grisha Lavrov 👋
 
 ### Senior Backend Developer · Technical Lead
 
-I design and build backend systems for data-intensive products, internal platforms, and distributed workflows. My focus is Python and Go, API design, event-driven architecture, performance, reliability, and technical leadership.
+I design and build backend systems for data-intensive products, internal platforms, and distributed workflows. My focus is Python, API design, event-driven architecture, performance, reliability, and technical leadership.
 
 <p align="center">
   <img src="./assets/impact.svg" alt="NDA-safe experience impact snapshot" width="100%">
@@ -33,12 +33,12 @@ Company names, internal product names, and proprietary implementation details ar
 - Designed and developed backend services for data registries, monitoring, validation, reporting, and ML-enabled workflows.
 - Built REST and gRPC integrations, event-driven services, asynchronous submit/poll flows, and background processing pipelines.
 - Led architecture, task decomposition, code review, release coordination, incident follow-up, and technical planning.
-- Worked across Python/FastAPI/Django and Go services with PostgreSQL, Redis, Kafka, RabbitMQ, Airflow, Spark, and Kubernetes.
+- Worked across Python/FastAPI/Django services with PostgreSQL, Redis, Kafka, RabbitMQ, Airflow, Spark, and Kubernetes.
 - Improved ORM-heavy workflows, introduced migrations and configuration-driven processing, and strengthened observability and testing practices.
 
 ## Technical toolkit
 
-**Languages:** Python, Go, SQL
+**Language:** Python, SQL
 
 **Backend:** FastAPI, Django, Django REST Framework, SQLAlchemy, Pydantic, asyncio, aiohttp, Celery, REST, gRPC
 
@@ -54,7 +54,7 @@ Company names, internal product names, and proprietary implementation details ar
 | --- | --- |
 | [Dev Interview Notes](https://github.com/GLec1er/dev_interview_notes) | Full-stack learning platform with React, TypeScript, FastAPI, PostgreSQL, async SQLAlchemy, JWT authentication, RBAC, Alembic migrations, Docker, and OpenAPI |
 | [MENU-FastAPI](https://github.com/GLec1er/MENU-FastAPI) | Async REST API with PostgreSQL, Redis caching, Celery + RabbitMQ background jobs, Excel report generation, Docker Compose, and Pytest |
-| [GhostDB](https://github.com/GLec1er/GhostDB) | Minimal in-memory database with a SQL-like CLI and nested transaction support including `COMMIT` and `ROLLBACK` |
+| [GhostDB](https://github.com/GLec1er/GhostDB) | Minimal in-memory database with a SQL-like CLI and nested transaction support including \`COMMIT\` and \`ROLLBACK\` |
 | [Balancer](https://github.com/GLec1er/Balancer) | FastAPI service that routes video traffic between an origin server and CDN using HTTP redirects and Docker Compose |
 | [E-commerce](https://github.com/GLec1er/E-commerce) | Django e-commerce platform with users, seller stores, products, discounts, baskets, and orders |
 
@@ -68,4 +68,4 @@ Company names, internal product names, and proprietary implementation details ar
 
 ---
 
-Thanks for visiting my profile. 
+Thanks for visiting my profile.
