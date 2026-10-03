@@ -15,13 +15,13 @@ I take ownership from architecture and implementation through code review, relea
 [Explore my projects](#selected-projects) · [Professional experience](#confidential-experience) · [Technical toolkit](#technical-toolkit)
 
 <p align="center">
-  <img src="./assets/impact.svg" alt="NDA-safe experience impact snapshot" width="100%">
+  <img src="./assets/impact.svg?v=264c166" alt="NDA-safe experience impact snapshot" width="100%">
 </p>
 
 ## ⚡ At a glance
 
 <p align="center">
-  <img src="./assets/at-a-glance.svg" alt="IT dashboard with backend experience, leadership, scope, quality, and performance metrics" width="100%">
+  <img src="./assets/at-a-glance.svg?v=264c166" alt="IT dashboard with backend experience, leadership, scope, quality, and performance metrics" width="100%">
 </p>
 
 ### Measured impact
@@ -32,13 +32,13 @@ I take ownership from architecture and implementation through code review, relea
 - Increased critical-scenario test coverage to **85%+**, reduced production defects by approximately **40%**, and improved service response time by **15%**.
 
 <p align="center">
-  <img src="./assets/timeline.svg" alt="NDA-safe career progression timeline" width="100%">
+  <img src="./assets/timeline.svg?v=264c166" alt="NDA-safe career progression timeline" width="100%">
 </p>
 
 ## Engineering scope
 
 <p align="center">
-  <img src="./assets/architecture.svg" alt="Backend engineering scope map" width="100%">
+  <img src="./assets/architecture.svg?v=264c166" alt="Backend engineering scope map" width="100%">
 </p>
 
 ## Confidential experience
@@ -84,3 +84,4 @@ Company names, internal product names, and proprietary implementation details ar
 ---
 
 Thanks for visiting my profile.
+
