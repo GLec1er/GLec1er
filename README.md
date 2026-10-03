@@ -1,4 +1,4 @@
-# Hi, I'm Grigorii (Grisha) Lavrov 👋
+# Hi, I'm Grigorii Lavrov 👋
 
 ### Senior Python Backend Engineer · Technical Lead
 
